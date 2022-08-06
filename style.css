@@ -1,0 +1,63 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+}
+
+.corpo{
+  background: rgba(0,0,0,0.5) center;
+  width: 67%;
+  height: 850px;
+  border-radius: 25px;
+  margin: 2% 15% 4% 15%;
+  font-family: sans-serif;
+}
+
+img{
+  width: 19%;
+  margin-top: 7%;
+}
+
+h1{
+  color: rgba(0,221,0,1);
+}
+
+nav{
+  background-color: rgba(0, 221, 0, 1);
+  align-items: center;
+  width: 1000px;
+  padding: 1%;
+}
+header , nav{
+  text-align: center;
+}
+nav , main{
+  margin-left: 13%;
+}
+
+main{
+  font-size: 20px;
+  color: white;
+}
+
+.monopattino{
+  display:inline;
+}
+.barra{
+  border-radius: 7px;
+  height: 30px;
+}
+
+.uno{
+  width: 30%;
+  background-color: #F5B453;
+}
+
+.due{
+  width: 60%;
+  background-color: #1EC31E;
+}
+
+.tre{
+  width: 20%;
+  background-color: #BE4141;
+}
